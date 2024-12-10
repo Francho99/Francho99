@@ -1,6 +1,6 @@
 ## Hi there! I'm Franco
 
-```
+```javascript
 var myUser = {
   name: "Franco",
   userName: "Francho99",
