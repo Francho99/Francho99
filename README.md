@@ -4,8 +4,9 @@
 var myUser = {
   name: "Franco",
   userName: "Francho99",
-  occupation: "Student";
-  organization: "ORT University Uruguay"
+  occupation: "Student",
+  college: "ORT University Uruguay",
+  location: "San José, Uruguay"
 };
 
 ```
