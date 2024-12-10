@@ -1,12 +1,12 @@
 ## Hi there! I'm Franco
 
 ```
-fn main() {
-    let name = 'Rafael Carneiro';
-    let acknowledgements = 'Software Engineer';
-
-    let location = 'Fortaleza, Ceara, Brazil';
-    let company = 'O2D - On Demand Development';
-}
+var myUser = {
+  name: "Franco",
+  userName: "Francho99",
+  born: 1999;
+  occupation: "Student";
+  organization: "ORT University Uruguay"
+};
 
 ```
